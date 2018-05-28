@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<your connection string>",
+    "AzureWebJobsDashboard": "<your connection string>",
+    "IoTHubName": "<your name>",
+    "EventHubConnection": "<your connection string>",
+    "ConsumerGroup": "<your telemetry consumer group name>",
+    "TelemetryTableConnection": "<your connection string>",
+    "TelemetryTableName": "<telemetry table name>"
+  }
+}
